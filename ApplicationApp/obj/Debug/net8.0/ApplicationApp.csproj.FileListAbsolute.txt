@@ -9,3 +9,4 @@ C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\obj\Debug\net8.0\Applica
 C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\obj\Debug\net8.0\refint\ApplicationApp.dll
 C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\obj\Debug\net8.0\ApplicationApp.pdb
 C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\obj\Debug\net8.0\ref\ApplicationApp.dll
+C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\obj\Debug\net8.0\ApplicationApp.sourcelink.json

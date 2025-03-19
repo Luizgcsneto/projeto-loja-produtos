@@ -9,3 +9,4 @@ C:\Users\bode_\source\repos\LojaProdutos\Infrastructure\obj\Debug\net8.0\Infrast
 C:\Users\bode_\source\repos\LojaProdutos\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\bode_\source\repos\LojaProdutos\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\bode_\source\repos\LojaProdutos\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\bode_\source\repos\LojaProdutos\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
