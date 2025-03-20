@@ -4,12 +4,12 @@ using Domain.Interfaces.Generics;
 using Domain.Interfaces.InterfaceProduct;
 using Domain.Interfaces.InterfaceServices;
 using Domain.Services;
+using Entities.Entities;
 using Infrastructure.Configuration;
 using Infrastructure.Repository.Generics;
 using Infrastructure.Repository.Repositories;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using WebLojaProdutos.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -4,7 +4,7 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1>Cadastrar novo produto</h1>
 
 <h4>Produto</h4>
 <hr />
@@ -32,21 +32,9 @@
                 <input asp-for="Preco" class="form-control" />
                 <span asp-validation-for="Preco" class="text-danger"></span>
             </div>
-            <div class="form-group form-check">
-                <label class="form-check-label">
-                    <input class="form-check-input" asp-for="Estado" /> @Html.DisplayNameFor(model => model.Estado)
-                </label>
-            </div>
-            <div class="form-group">
-                <label asp-for="DataCadastro" class="control-label"></label>
-                <input asp-for="DataCadastro" class="form-control" />
-                <span asp-validation-for="DataCadastro" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="DataAlteracao" class="control-label"></label>
-                <input asp-for="DataAlteracao" class="form-control" />
-                <span asp-validation-for="DataAlteracao" class="text-danger"></span>
-            </div>
+          
+          
+          
             <div class="form-group">
                 <label asp-for="UserId" class="control-label"></label>
                 <select asp-for="UserId" class ="form-control" asp-items="ViewBag.UserId"></select>
@@ -57,9 +45,9 @@
         </form>
     </div>
 </div>
-
+<br />
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index" class="btn btn-default">voltar</a>
 </div>
 
 @section Scripts {

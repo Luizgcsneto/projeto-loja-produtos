@@ -52,7 +52,7 @@ namespace Entities.Entities
 
         [Column("PRD_ESTADO")]
         [Display(Name = "Estado")]
-        public bool Estado { get; set; }
+        public bool? Estado { get; set; }
 
 
         [Column("PRD_DATA_CADASTRO")]
@@ -61,7 +61,7 @@ namespace Entities.Entities
 
         [Column("PRD_DATA_ALTERACAO")]
         [Display(Name = "Data Alteração")]
-        public DateTime DataAlteracao { get; set; }
+        public DateTime? DataAlteracao { get; set; }
 
         [Display(Name = "Usuário")]
         [ForeignKey("ApplicationUser")]
