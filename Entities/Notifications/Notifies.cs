@@ -47,6 +47,21 @@ namespace Entities.Notifications
             return true;
         }
 
+        public bool validaPropriedadeDecimal(decimal valor, string nomePropriedade)
+        {
+            if (valor < 1 || string.IsNullOrWhiteSpace(nomePropriedade))
+            {
+                Notificacoes.Add(new Notifies
+                {
+                    Mensagem = "Valor deve ser maior que 0",
+                    NomePropriedade = nomePropriedade
+                });
+
+                return false;
+            }
+            return true;
+        }
+
     }
 
     

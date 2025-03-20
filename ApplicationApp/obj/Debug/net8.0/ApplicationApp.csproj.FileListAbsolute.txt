@@ -10,3 +10,9 @@ C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\obj\Debug\net8.0\refint\
 C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\obj\Debug\net8.0\ApplicationApp.pdb
 C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\obj\Debug\net8.0\ref\ApplicationApp.dll
 C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\obj\Debug\net8.0\ApplicationApp.sourcelink.json
+C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\bin\Debug\net8.0\Domain.dll
+C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\bin\Debug\net8.0\Entities.dll
+C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\bin\Debug\net8.0\Domain.pdb
+C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\bin\Debug\net8.0\Entities.pdb
+C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\obj\Debug\net8.0\ApplicationApp.csproj.AssemblyReference.cache
+C:\Users\bode_\source\repos\LojaProdutos\ApplicationApp\obj\Debug\net8.0\Applicat.6086FC76.Up2Date
