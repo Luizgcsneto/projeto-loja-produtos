@@ -27,6 +27,10 @@ namespace ApplicationApp.OpenApp
             await _iServiceProduto.UpdateProduto(produto);
         }
 
+        public async Task DeleteProduto(Produto produto)
+        {
+            await _iServiceProduto.DeleteProduto(produto);
+        }
 
         public async Task Add(Produto entity)
         {
@@ -52,6 +56,6 @@ namespace ApplicationApp.OpenApp
             await _iproduto.Update(entity);
         }
 
-       
+     
     }
 }

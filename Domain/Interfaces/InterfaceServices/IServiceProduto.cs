@@ -6,5 +6,7 @@ namespace Domain.Interfaces.InterfaceServices
     {
         Task AddProduto(Produto produto);
         Task UpdateProduto(Produto produto);
+
+        Task DeleteProduto(Produto produto);
     }
 }

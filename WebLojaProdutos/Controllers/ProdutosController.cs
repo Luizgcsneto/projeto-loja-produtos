@@ -2,6 +2,7 @@
 using Entities.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 namespace WebLojaProdutos.Controllers
 {
@@ -41,6 +42,7 @@ namespace WebLojaProdutos.Controllers
             {
 
                 await _interfaceProdutoApp.AddProduto(produto);
+                TempData["SuccessMessage"] = "Produto cadastrado com sucesso!";
 
                 if (produto.Notificacoes.Any())
                 {
@@ -77,6 +79,7 @@ namespace WebLojaProdutos.Controllers
             {
 
                 await _interfaceProdutoApp.UpdateProduto(produto);
+                TempData["SuccessMessage"] = "Produto atualizado com sucesso!";
 
                 if (produto.Notificacoes.Any())
                 {
@@ -112,9 +115,14 @@ namespace WebLojaProdutos.Controllers
             try
             {
                 var produtoDeletar = await _interfaceProdutoApp.GetEntityById(id);
-
+                if (produtoDeletar.QtdEstoque > 0) 
+                {
+                    ModelState.AddModelError(string.Empty, "Não é possível excluir um produto com estoque maior que zero.");
+                    TempData["ErrorMessage"] = "Não é possível excluir um produto com estoque maior que zero.";
+                    return RedirectToAction(nameof(Index));
+                }
                 await _interfaceProdutoApp.Delete(produtoDeletar);
-
+                TempData["SuccessMessage"] = "Produto excluído com sucesso!";
                 return RedirectToAction(nameof(Index));
             }
             catch

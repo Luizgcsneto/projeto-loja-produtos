@@ -365,11 +365,27 @@
               "target": "Package",
               "version": "[17.8.0, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[6.0.0, )"
             },
             "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.abstractions": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.core": {
               "target": "Package",
               "version": "[2.5.3, )"
             },

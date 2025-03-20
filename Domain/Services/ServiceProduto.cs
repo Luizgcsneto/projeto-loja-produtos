@@ -23,6 +23,7 @@ namespace Domain.Services
 
             if (validaNome && validaDescricao && ValidaQtdEstoque && validaPreco)
             {
+                produto.DataCadastro = DateTime.Now;
                 await _produto.Add(produto);
             }
 
@@ -34,13 +35,24 @@ namespace Domain.Services
 
             var validaDescricao = produto.validaPropriedadeString(produto.Descricao, "Descricao");
 
-            var ValidaQtdEstoque = produto.validaPropriedadeInt(produto.QtdEstoque, "QtdEstoque");
-
             var validaPreco = produto.validaPropriedadeDecimal(produto.Preco, "Preco");
 
-            if (validaNome && validaDescricao && ValidaQtdEstoque && validaPreco)
+            if (validaNome && validaDescricao  && validaPreco)
             {
-                await _produto.Update(produto);
+
+                produto.DataCadastro = produto.DataCadastro;
+                produto.DataAlteracao = DateTime.Now;
+               await _produto.Update(produto);
+            }
+        }
+
+        public async Task DeleteProduto(Produto produto)
+        {
+ 
+          var validaExclusao = produto.validaExclusaoProduto(produto.QtdEstoque, "QtdEstoque");
+            if (validaExclusao)
+            {
+                await _produto.Delete(produto);
             }
         }
     }
