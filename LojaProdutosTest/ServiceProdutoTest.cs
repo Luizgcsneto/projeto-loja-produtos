@@ -167,13 +167,33 @@ namespace LojaProdutosTest
             // Arrange
             var produto = new Produto
             {
-                Nome = "",
+                Nome = "", // nome vazio
                 Descricao = "Nova Descricao Produto",
                 QtdEstoque = 3,
                 Preco = 50.00m
             };
 
           
+            // Act
+            await _serviceProduto.UpdateProduto(produto);
+
+            // Assert
+            _mockProduto.Verify(p => p.Add(produto), Times.Never);
+        }
+
+        [Fact(DisplayName = "Nao Deve Atualiza Produto Quando Descricao E Invalido")]
+        public async Task UpdateProduto_NaoDeveAtualizaProduto_QuandoDescricaoEInvalido()
+        {
+            // Arrange
+            var produto = new Produto
+            {
+                Nome = "Nome para atualizar",
+                Descricao = "", // desc vazio
+                QtdEstoque = 3,
+                Preco = 50.00m
+            };
+
+
             // Act
             await _serviceProduto.UpdateProduto(produto);
 
