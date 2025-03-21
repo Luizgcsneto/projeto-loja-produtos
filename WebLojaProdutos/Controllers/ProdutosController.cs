@@ -117,8 +117,8 @@ namespace WebLojaProdutos.Controllers
                 var produtoDeletar = await _interfaceProdutoApp.GetEntityById(id);
                 if (produtoDeletar.QtdEstoque > 0) 
                 {
-                    ModelState.AddModelError(string.Empty, "Não é possível excluir um produto com estoque maior que zero.");
-                    TempData["ErrorMessage"] = "Não é possível excluir um produto com estoque maior que zero.";
+                    
+                    TempData["ErrorMessage"] = "Não é possível excluir produtos que tem unidades em estoque.";
                     return RedirectToAction(nameof(Index));
                 }
                 await _interfaceProdutoApp.Delete(produtoDeletar);

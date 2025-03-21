@@ -15,8 +15,6 @@ namespace ApplicationApp.OpenApp
             _iproduto = iproduto;
             _iServiceProduto = iServiceProduto;
         }
-    
-
         public async Task AddProduto(Produto produto)
         {
             await _iServiceProduto.AddProduto(produto);
@@ -27,11 +25,7 @@ namespace ApplicationApp.OpenApp
             await _iServiceProduto.UpdateProduto(produto);
         }
 
-        public async Task DeleteProduto(Produto produto)
-        {
-            await _iServiceProduto.DeleteProduto(produto);
-        }
-
+       
         public async Task Add(Produto entity)
         {
             await _iproduto.Add(entity);

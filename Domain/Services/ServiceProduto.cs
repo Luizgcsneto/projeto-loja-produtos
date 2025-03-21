@@ -23,7 +23,7 @@ namespace Domain.Services
 
             if (validaNome && validaDescricao && ValidaQtdEstoque && validaPreco)
             {
-                produto.DataCadastro = DateTime.Now;
+                produto.DataCadastro = DateTime.UtcNow;
                 await _produto.Add(produto);
             }
 
@@ -37,23 +37,15 @@ namespace Domain.Services
 
             var validaPreco = produto.validaPropriedadeDecimal(produto.Preco, "Preco");
 
-            if (validaNome && validaDescricao  && validaPreco)
+            if (validaNome && validaDescricao && validaPreco)
             {
-
-                produto.DataCadastro = produto.DataCadastro;
-                produto.DataAlteracao = DateTime.Now;
-               await _produto.Update(produto);
+                var dataCadastrado = await _produto.GetEntityById(produto.Id);
+                produto.DataCadastro = dataCadastrado.DataCadastro;
+                produto.DataAlteracao = DateTime.UtcNow;
+                await _produto.Update(produto);
             }
         }
 
-        public async Task DeleteProduto(Produto produto)
-        {
- 
-          var validaExclusao = produto.validaExclusaoProduto(produto.QtdEstoque, "QtdEstoque");
-            if (validaExclusao)
-            {
-                await _produto.Delete(produto);
-            }
-        }
+       
     }
 }

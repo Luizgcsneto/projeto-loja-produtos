@@ -70,19 +70,7 @@ namespace Entities.Entities
         public virtual ApplicationUser ApplicationUser { get; set; }
 
 
-        public bool validaExclusaoProduto(int valor, string nomePropriedade)
-        {
-            if (valor >= 1)
-            {
-                Notificacoes.Add(new Notifies
-                {
-                    Mensagem = "Você não pode excluir um produto que tem no estoque",
-                    NomePropriedade = nomePropriedade
-                });
-                return false;
-            }
-            return true;
-        }
+      
 
     }
 }
