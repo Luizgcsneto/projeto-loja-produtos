@@ -25,7 +25,6 @@ namespace Infrastructure.Configuration
             
             if (!optionsBuilder.IsConfigured) 
             {
-                //optionsBuilder.UseSqlServer("Server=DESKTOP-44KBJJP;Database=;Trusted_Connection=True;TrustServerCertificate=True");
                 optionsBuilder.UseSqlServer(GetStringConnectionConfig());
                 base.OnConfiguring(optionsBuilder);
             }
