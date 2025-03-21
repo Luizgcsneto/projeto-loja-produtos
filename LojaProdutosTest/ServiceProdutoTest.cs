@@ -45,10 +45,76 @@ namespace LojaProdutosTest
             // Arrange
             var produto = new Produto
             {
-                Nome = "",
+                Nome = "", // nome vazio
                 Descricao = "Descricao Produto",
                 QtdEstoque = 4,
                 Preco = 100.00m
+            };
+
+            _mockProduto.Setup(p => p.Add(produto)).Returns(Task.CompletedTask);
+
+            // Act
+            await _serviceProduto.AddProduto(produto);
+
+            // Assert   
+            _mockProduto.Verify(p => p.Add(produto), Times.Never);
+
+        }
+
+        [Fact(DisplayName = "Nao Adiciona Produto Quando Descricao E Invalido")]
+        public async Task AddProduto_NaoDeveAdicionaProduto_QuandoDescricaoEInvalido()
+        {
+            // Arrange
+            var produto = new Produto
+            {
+                Nome = "Nome produto",
+                Descricao = "", //descrição vazia
+                QtdEstoque = 2,
+                Preco = 80.00m
+            };
+
+            _mockProduto.Setup(p => p.Add(produto)).Returns(Task.CompletedTask);
+
+            // Act
+            await _serviceProduto.AddProduto(produto);
+
+            // Assert   
+            _mockProduto.Verify(p => p.Add(produto), Times.Never);
+
+        }
+
+        [Fact(DisplayName = "Nao Adiciona Produto Quando QtdEstoque E 0")]
+        public async Task AddProduto_NaoDeveAdicionaProduto_QuandoQtdEstoqueE0()
+        {
+            // Arrange
+            var produto = new Produto
+            {
+                Nome = "Nome produto",
+                Descricao = "Descrição", 
+                QtdEstoque = 0,// quantidade de estoque 0
+                Preco = 90.00m
+            };
+
+            _mockProduto.Setup(p => p.Add(produto)).Returns(Task.CompletedTask);
+
+            // Act
+            await _serviceProduto.AddProduto(produto);
+
+            // Assert   
+            _mockProduto.Verify(p => p.Add(produto), Times.Never);
+
+        }
+
+        [Fact(DisplayName = "Nao Adiciona Produto Quando Preco E 0")]
+        public async Task AddProduto_NaoDeveAdicionaProduto_QuandoPrecoE0()
+        {
+            // Arrange
+            var produto = new Produto
+            {
+                Nome = "Nome produto",
+                Descricao = "Descrição", 
+                QtdEstoque = 8,
+                Preco = 0 // preco zerado
             };
 
             _mockProduto.Setup(p => p.Add(produto)).Returns(Task.CompletedTask);
