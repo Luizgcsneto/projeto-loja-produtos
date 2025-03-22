@@ -3,240 +3,132 @@
   "WorkspaceRootPath": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F23989D1-8B5F-4C71-A5CF-365EC2B45D98}|LojaProdutosTest\\LojaProdutosTest.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\lojaprodutostest\\serviceprodutotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F23989D1-8B5F-4C71-A5CF-365EC2B45D98}|LojaProdutosTest\\LojaProdutosTest.csproj|solutionrelative:lojaprodutostest\\serviceprodutotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F73314E8-49FA-4AC3-BD29-9B882DCE7A9B}|Infrastructure\\Infrastructure.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\infrastructure\\configuration\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F73314E8-49FA-4AC3-BD29-9B882DCE7A9B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configuration\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\weblojaprodutos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\weblojaprodutos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41B504A0-7082-41AA-855F-23C0A6204F82}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\applicationapp\\openapp\\appproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41B504A0-7082-41AA-855F-23C0A6204F82}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\openapp\\appproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C9745A9-E053-4CDB-9D7A-EE017F4149C2}|Domain\\Domain.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\domain\\interfaces\\interfaceservices\\iserviceproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C9745A9-E053-4CDB-9D7A-EE017F4149C2}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservices\\iserviceproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C9745A9-E053-4CDB-9D7A-EE017F4149C2}|Domain\\Domain.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\domain\\services\\serviceproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C9745A9-E053-4CDB-9D7A-EE017F4149C2}|Domain\\Domain.csproj|solutionrelative:domain\\services\\serviceproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F73314E8-49FA-4AC3-BD29-9B882DCE7A9B}|Infrastructure\\Infrastructure.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\infrastructure\\repository\\repositories\\repositoryproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73314E8-49FA-4AC3-BD29-9B882DCE7A9B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\repositories\\repositoryproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C9745A9-E053-4CDB-9D7A-EE017F4149C2}|Domain\\Domain.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\domain\\interfaces\\interfaceproduct\\iproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C9745A9-E053-4CDB-9D7A-EE017F4149C2}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceproduct\\iproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C98409F-BAC5-4EBB-B135-62DE7B209C9F}|Entities\\Entities.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\entities\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C98409F-BAC5-4EBB-B135-62DE7B209C9F}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41B504A0-7082-41AA-855F-23C0A6204F82}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\applicationapp\\openapp\\appproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B504A0-7082-41AA-855F-23C0A6204F82}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\openapp\\appproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41B504A0-7082-41AA-855F-23C0A6204F82}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\applicationapp\\interfaces\\interfaceprodutoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41B504A0-7082-41AA-855F-23C0A6204F82}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\interfaces\\interfaceprodutoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41B504A0-7082-41AA-855F-23C0A6204F82}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\applicationapp\\interfaces\\interfacegenericapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41B504A0-7082-41AA-855F-23C0A6204F82}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\interfaces\\interfacegenericapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Migrations\\20250322004249_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250322004249_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C98409F-BAC5-4EBB-B135-62DE7B209C9F}|Entities\\Entities.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\entities\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C98409F-BAC5-4EBB-B135-62DE7B209C9F}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C98409F-BAC5-4EBB-B135-62DE7B209C9F}|Entities\\Entities.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\entities\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C98409F-BAC5-4EBB-B135-62DE7B209C9F}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C98409F-BAC5-4EBB-B135-62DE7B209C9F}|Entities\\Entities.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\entities\\entities\\comprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C98409F-BAC5-4EBB-B135-62DE7B209C9F}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\comprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F73314E8-49FA-4AC3-BD29-9B882DCE7A9B}|Infrastructure\\Infrastructure.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\infrastructure\\configuration\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73314E8-49FA-4AC3-BD29-9B882DCE7A9B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configuration\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Migrations\\20250321233850_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250321233850_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F73314E8-49FA-4AC3-BD29-9B882DCE7A9B}|Infrastructure\\Infrastructure.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\infrastructure\\migrations\\20250320171818_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F73314E8-49FA-4AC3-BD29-9B882DCE7A9B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250320171818_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|c:\\users\\bode_\\source\\repos\\lojaprodutos\\weblojaprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5D9583-A4C3-4310-AF4D-37E524917A32}|WebLojaProdutos\\WebLojaProdutos.csproj|solutionrelative:weblojaprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -246,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -258,712 +150,419 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:08:08.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:53:39.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Produtos\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Produtos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Produtos\\Index.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\Produtos\\Index.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T17:40:35.63Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Produtos\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Produtos\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Produtos\\Delete.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\Produtos\\Delete.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T17:48:03.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResetPasswordConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:51:26.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:41:54.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceProdutoTest.cs",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\LojaProdutosTest\\ServiceProdutoTest.cs",
-              "RelativeDocumentMoniker": "LojaProdutosTest\\ServiceProdutoTest.cs",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\LojaProdutosTest\\ServiceProdutoTest.cs",
-              "RelativeToolTip": "LojaProdutosTest\\ServiceProdutoTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T03:18:33.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T02:09:28.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:35:20.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\appsettings.json",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\appsettings.json",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\appsettings.json",
-              "RelativeToolTip": "WebLojaProdutos\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-21T05:01:06.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IProduto.cs",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Domain\\Interfaces\\InterfaceProduct\\IProduto.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceProduct\\IProduto.cs",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Domain\\Interfaces\\InterfaceProduct\\IProduto.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\InterfaceProduct\\IProduto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T01:32:48.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ServiceProduto.cs",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Domain\\Services\\ServiceProduto.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\ServiceProduto.cs",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Domain\\Services\\ServiceProduto.cs",
-              "RelativeToolTip": "Domain\\Services\\ServiceProduto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:24:37.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Entities\\Entities\\Produto.cs",
-              "RelativeDocumentMoniker": "Entities\\Entities\\Produto.cs",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Entities\\Entities\\Produto.cs",
-              "RelativeToolTip": "Entities\\Entities\\Produto.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T01:30:35.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WebLojaProdutos.csproj",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\WebLojaProdutos.csproj",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\WebLojaProdutos.csproj",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\WebLojaProdutos.csproj",
-              "RelativeToolTip": "WebLojaProdutos\\WebLojaProdutos.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T04:53:11.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ContextBase.cs",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Configuration\\ContextBase.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\ContextBase.cs",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Configuration\\ContextBase.cs",
-              "RelativeToolTip": "Infrastructure\\Configuration\\ContextBase.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T05:00:23.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IServiceProduto.cs",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Domain\\Interfaces\\InterfaceServices\\IServiceProduto.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServices\\IServiceProduto.cs",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Domain\\Interfaces\\InterfaceServices\\IServiceProduto.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServices\\IServiceProduto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T01:32:18.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "AppProduto.cs",
               "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\ApplicationApp\\OpenApp\\AppProduto.cs",
               "RelativeDocumentMoniker": "ApplicationApp\\OpenApp\\AppProduto.cs",
               "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\ApplicationApp\\OpenApp\\AppProduto.cs",
               "RelativeToolTip": "ApplicationApp\\OpenApp\\AppProduto.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T01:33:02.371Z"
+              "WhenOpened": "2025-03-22T02:14:50.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:40:50.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T02:12:21.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T02:12:28.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T02:12:34.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T02:12:18.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T02:11:56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "InterfaceGenericApp.cs",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\ApplicationApp\\Interfaces\\InterfaceGenericApp.cs",
-              "RelativeDocumentMoniker": "ApplicationApp\\Interfaces\\InterfaceGenericApp.cs",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\ApplicationApp\\Interfaces\\InterfaceGenericApp.cs",
-              "RelativeToolTip": "ApplicationApp\\Interfaces\\InterfaceGenericApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T01:33:48.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 4,
               "Title": "InterfaceProdutoApp.cs",
               "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\ApplicationApp\\Interfaces\\InterfaceProdutoApp.cs",
               "RelativeDocumentMoniker": "ApplicationApp\\Interfaces\\InterfaceProdutoApp.cs",
               "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\ApplicationApp\\Interfaces\\InterfaceProdutoApp.cs",
               "RelativeToolTip": "ApplicationApp\\Interfaces\\InterfaceProdutoApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T01:32:55.557Z"
+              "WhenOpened": "2025-03-22T02:13:53.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 0,
+              "Title": "RepositoryProduto.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Repository\\Repositories\\RepositoryProduto.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Repositories\\RepositoryProduto.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Repository\\Repositories\\RepositoryProduto.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Repositories\\RepositoryProduto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T02:06:00.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProduto.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Domain\\Interfaces\\InterfaceProduct\\IProduto.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceProduct\\IProduto.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Domain\\Interfaces\\InterfaceProduct\\IProduto.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceProduct\\IProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:25:09.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProdutosController.cs",
               "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "WebLojaProdutos\\Controllers\\ProdutosController.cs",
               "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "WebLojaProdutos\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAADwv3cAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwBoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:35:50.983Z"
+              "WhenOpened": "2025-03-22T01:16:38.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ConfirmEmailChange.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD8AAAA6AAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "20250322004249_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Migrations\\20250322004249_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250322004249_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Migrations\\20250322004249_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250322004249_InitialCreate.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAwwNsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T23:32:15.107Z"
+              "WhenOpened": "2025-03-22T00:42:49.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Email.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:03:47.573Z"
+              "DocumentIndex": 7,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Entities\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Entities\\Entities\\Produto.cs",
+              "RelativeToolTip": "Entities\\Entities\\Produto.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:16:11.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ConfirmEmail.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:30:26.075Z"
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:10:23.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "EnableAuthenticator.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:07:15.058Z"
+              "DocumentIndex": 12,
+              "Title": "ResendEmailConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswBkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:04:12.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:07:50.618Z"
+              "DocumentIndex": 13,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:03:49.066Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Entities\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Entities\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Entities\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:51:09.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompraUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Entities\\Entities\\CompraUsuario.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\CompraUsuario.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Entities\\Entities\\CompraUsuario.cs",
+              "RelativeToolTip": "Entities\\Entities\\CompraUsuario.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:16:29.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAswKEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:02:04.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:04:42.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResetPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:10:15.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:01:42.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginWithRecoveryCode.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:01:03.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginWith2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:00:19.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Lockout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:00:13.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ForgotPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:00:05.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ConfirmEmail.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
               "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
               "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
               "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwC4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T23:28:43.292Z"
+              "WhenOpened": "2025-03-21T23:59:38.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ConfirmEmailChange.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:30:33.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "DocumentIndex": 21,
+              "Title": "AccessDenied.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:07:52.65Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:59:30.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Error.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:07:54.292Z"
+              "DocumentIndex": 22,
+              "Title": "ConfirmEmailChange.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:59:09.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DeletePersonalData.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:03:39.3Z"
+              "DocumentIndex": 23,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:58:24.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ChangePassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:01:56.101Z"
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:56:48.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:01:54.238Z"
+              "DocumentIndex": 25,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAArwNYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:52:11.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "_StatusMessage.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:01:49.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "_ManageNav.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:01:46.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "TwoFactorAuthentication.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:01:29.515Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "_StatusMessage.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T19:01:25.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:55:44.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAB+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:54:28.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:30:23.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:30:21.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "RegisterConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:45:05.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ResendEmailConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:47:26.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:49:13.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "LoginWithRecoveryCode.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:39:18.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "LoginWith2fa.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:37:38.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Lockout.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:34:39.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "ForgotPasswordConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:33:35.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "ForgotPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:32:21.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 26,
               "Title": "ExternalLogin.cshtml",
               "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
               "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
               "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
               "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T18:30:35.351Z"
+              "WhenOpened": "2025-03-21T23:51:41.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Produtos\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Produtos\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Produtos\\Edit.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\Produtos\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T17:49:07.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Produtos\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Produtos\\Details.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Produtos\\Details.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\Produtos\\Details.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T17:48:38.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Produtos\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Produtos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Produtos\\Create.cshtml",
-              "RelativeToolTip": "WebLojaProdutos\\Views\\Produtos\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T17:45:40.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "20250320171818_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Migrations\\20250320171818_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250320171818_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Migrations\\20250320171818_InitialCreate.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20250320171818_InitialCreate.cs",
-              "ViewState": "AgIAAEcBAAAAAAAAAAAYwPQAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "20250321233850_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Migrations\\20250321233850_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250321233850_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Migrations\\20250321233850_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250321233850_InitialCreate.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAYwDUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:18:18.344Z"
+              "WhenOpened": "2025-03-21T23:38:54.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebLojaProdutos\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T23:08:00.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebLojaProdutos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T23:07:41.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Program.cs",
+              "RelativeDocumentMoniker": "WebLojaProdutos\\Program.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\Program.cs",
+              "RelativeToolTip": "WebLojaProdutos\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:06:56.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Configuration\\ContextBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\ContextBase.cs",
+              "ToolTip": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\Infrastructure\\Configuration\\ContextBase.cs",
+              "RelativeToolTip": "Infrastructure\\Configuration\\ContextBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:51:40.444Z",
+              "EditorCaption": ""
             }
           ]
         }

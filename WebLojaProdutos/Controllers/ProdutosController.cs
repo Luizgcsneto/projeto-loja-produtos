@@ -1,6 +1,7 @@
 ﻿using ApplicationApp.Interfaces;
 using Entities.Entities;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 
@@ -11,14 +12,19 @@ namespace WebLojaProdutos.Controllers
     {
         
         private readonly InterfaceProdutoApp _interfaceProdutoApp;
-        public ProdutosController(InterfaceProdutoApp interfaceProdutoApp)
+        private readonly UserManager<ApplicationUser> _userManager;
+        public ProdutosController(InterfaceProdutoApp interfaceProdutoApp,
+                                  UserManager<ApplicationUser> userManager)
         {
             _interfaceProdutoApp = interfaceProdutoApp;
+            _userManager = userManager;
         }
         // GET: ProdutosController
         public async Task<IActionResult> Index()
         {
-            return View(await _interfaceProdutoApp.GetAll());
+            var idUsuario = await retornarIdUsuarioLogado();
+
+            return View(await _interfaceProdutoApp.ListarProdutosUsuario(idUsuario));
         }
 
         // GET: ProdutosController/Details/5
@@ -40,7 +46,9 @@ namespace WebLojaProdutos.Controllers
         {
             try
             {
+                var idUsuario = await retornarIdUsuarioLogado();
 
+                produto.UserId = idUsuario;
                 await _interfaceProdutoApp.AddProduto(produto);
                 TempData["SuccessMessage"] = "Produto cadastrado com sucesso!";
 
@@ -51,14 +59,14 @@ namespace WebLojaProdutos.Controllers
                         ModelState.AddModelError(item.NomePropriedade, item.Mensagem);
                     }
 
-                    return View("Edit",produto);
+                    return View("Create",produto);
                 }
 
                
             }
             catch
             {
-                return View("Edit", produto);
+                return View("Create", produto);
             }
 
             return RedirectToAction(nameof(Index));
@@ -129,6 +137,13 @@ namespace WebLojaProdutos.Controllers
             {
                 return View();
             }
+        }
+
+        private async Task<string> retornarIdUsuarioLogado()
+        {
+            var idUsuario = await _userManager.GetUserAsync(User);
+
+            return idUsuario.Id;
         }
     }
 }
