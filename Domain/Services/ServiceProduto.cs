@@ -23,7 +23,9 @@ namespace Domain.Services
 
             if (validaNome && validaDescricao && ValidaQtdEstoque && validaPreco)
             {
-                produto.DataCadastro = DateTime.UtcNow;
+                produto.DataCadastro = DateTime.Now;
+                produto.DataAlteracao = DateTime.Now;
+                produto.Estado = true;
                 await _produto.Add(produto);
             }
 
@@ -41,7 +43,7 @@ namespace Domain.Services
             {
                 var dataCadastrado = await _produto.GetEntityById(produto.Id);
                 produto.DataCadastro = dataCadastrado.DataCadastro;
-                produto.DataAlteracao = DateTime.UtcNow;
+                produto.DataAlteracao = DateTime.Now;
                 await _produto.Update(produto);
             }
         }
