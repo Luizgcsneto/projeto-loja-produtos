@@ -147,16 +147,13 @@ namespace Infrastructure.Migrations
                         .HasColumnType("int")
                         .HasColumnName("CUS_ESTADO");
 
-                    b.Property<int>("IdProduto")
+                    b.Property<int>("ProdutoId")
                         .HasColumnType("int")
                         .HasColumnOrder(1);
 
-                    b.Property<int>("ProdutoId")
-                        .HasColumnType("int");
-
                     b.Property<int>("QtdCompra")
                         .HasColumnType("int")
-                        .HasColumnName("CUS_QTD");
+                        .HasColumnName("CSU_QTD");
 
                     b.Property<string>("UserId")
                         .IsRequired()

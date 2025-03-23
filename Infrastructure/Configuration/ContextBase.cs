@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Entities.Entities;
-using Microsoft.AspNetCore.Identity;
+﻿using Entities.Entities;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -39,7 +33,7 @@ namespace Infrastructure.Configuration
 
         private string GetStringConnectionConfig()
         {
-            string strCon = "Server=DESKTOP-44KBJJP;Database=crud_mvc_loja;Trusted_Connection=True;TrustServerCertificate=True";
+            string strCon = "Server=DESKTOP-44KBJJP;Database=crud_mvc_ddd;Trusted_Connection=True;TrustServerCertificate=True";
             return strCon;
         }
     }

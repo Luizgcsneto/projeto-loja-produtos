@@ -1,6 +1,7 @@
 using ApplicationApp.Interfaces;
 using ApplicationApp.OpenApp;
 using Domain.Interfaces.Generics;
+using Domain.Interfaces.InterfaceCompraUsuario;
 using Domain.Interfaces.InterfaceProduct;
 using Domain.Interfaces.InterfaceServices;
 using Domain.Services;
@@ -23,12 +24,16 @@ builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.R
     .AddEntityFrameworkStores<ContextBase>();
 builder.Services.AddControllersWithViews();
 
+//interface  repository
 builder.Services.AddSingleton(typeof(IGeneric<>), typeof(RepositoryGeneric<>));
 builder.Services.AddSingleton<IProduto, RepositoryProduto>();
+builder.Services.AddSingleton<ICompraUsuario, RepositoryCompraUsuario>();
 
+// interface  aplication
 builder.Services.AddSingleton<InterfaceProdutoApp, AppProduto>();
+builder.Services.AddSingleton<InterfaceCompraUsuarioApp, AppCompraUsuario>();
 
-
+// interface domínio
 builder.Services.AddSingleton<IServiceProduto, ServiceProduto>();
 
 var app = builder.Build();

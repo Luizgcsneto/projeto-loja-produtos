@@ -31,6 +31,11 @@ namespace Domain.Services
 
         }
 
+        public async Task<List<Produto>> ListarProdutosComEstoque()
+        {
+            return await _produto.ListarProdutos(p => p.QtdEstoque > 0);
+        }
+
         public async Task UpdateProduto(Produto produto)
         {
             var validaNome = produto.validaPropriedadeString(produto.Nome, "Nome");

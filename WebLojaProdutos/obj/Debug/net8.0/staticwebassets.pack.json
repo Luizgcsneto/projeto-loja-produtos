@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\wwwroot\\js\\jsProdutosVenda.js",
+      "PackagePath": "staticwebassets\\js\\jsProdutosVenda.js"
+    },
+    {
       "Id": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

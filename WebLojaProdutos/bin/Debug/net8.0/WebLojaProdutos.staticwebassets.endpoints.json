@@ -2249,7 +2249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 00:17:29 GMT"
+          "Value": "Sun, 23 Mar 2025 15:46:30 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2294,7 +2294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 00:17:29 GMT"
+          "Value": "Sun, 23 Mar 2025 15:46:30 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2465,6 +2465,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "js/jsProdutosVenda.js",
+      "AssetFile": "js/jsProdutosVenda.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wQAsedn+L8Q5N8VUwqaDVi2rFzwhfG2GUX1YlSPBNs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:16:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wQAsedn+L8Q5N8VUwqaDVi2rFzwhfG2GUX1YlSPBNs8="
+        }
+      ]
+    },
+    {
+      "Route": "js/jsProdutosVenda.p2qnpdlb7s.js",
+      "AssetFile": "js/jsProdutosVenda.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wQAsedn+L8Q5N8VUwqaDVi2rFzwhfG2GUX1YlSPBNs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:16:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p2qnpdlb7s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wQAsedn+L8Q5N8VUwqaDVi2rFzwhfG2GUX1YlSPBNs8="
+        },
+        {
+          "Name": "label",
+          "Value": "js/jsProdutosVenda.js"
         }
       ]
     },

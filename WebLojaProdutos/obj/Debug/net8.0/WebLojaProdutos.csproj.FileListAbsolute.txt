@@ -16,6 +16,7 @@ C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\WebLoj
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\WebLojaProdutos.pdb
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Humanizer.dll
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -83,6 +84,7 @@ C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Micros
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Moq.dll
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\NuGet.Common.dll
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\NuGet.Configuration.dll
@@ -390,5 +392,3 @@ C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\obj\Debug\net8.0\refint
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\obj\Debug\net8.0\WebLojaProdutos.pdb
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\obj\Debug\net8.0\WebLojaProdutos.genruntimeconfig.cache
 C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\obj\Debug\net8.0\ref\WebLojaProdutos.dll
-C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Castle.Core.dll
-C:\Users\bode_\source\repos\LojaProdutos\WebLojaProdutos\bin\Debug\net8.0\Moq.dll

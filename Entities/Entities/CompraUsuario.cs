@@ -15,26 +15,23 @@ namespace Entities.Entities
         [Display(Name = "Produto")]
         [ForeignKey("TB_PRODUTO")]
         [Column(Order = 1)]
-        public int IdProduto { get; set; }
+        public int ProdutoId { get; set; }
         public virtual Produto Produto { get; set; }
 
         [Column("CUS_ESTADO")]
         [Display(Name = "Estado")]
         public EstadoCompra Estado { get; set; }
 
+        [Column("CSU_QTD")]
+        [Display(Name = "Quantidade")]
+        public int QtdCompra { get; set; }
+
+
         [Display(Name = "Usuário")]
         [ForeignKey("ApplicationUser")]
         [Column(Order = 1)]
         public string UserId { get; set; }
         public virtual ApplicationUser ApplicationUser { get; set; }
-
-        [Column("CUS_QTD")]
-        [Display(Name = "Quantidade")]
-        public int QtdCompra
-        {
-            get;
-            set;
-        }
 
 
     }

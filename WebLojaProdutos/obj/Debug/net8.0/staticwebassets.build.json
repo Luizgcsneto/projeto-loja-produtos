@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yxLgJ32PrhTPDEJKq2abKc831HNgDsW9I+bGwLcnwsI=",
+  "Hash": "TfNwbT7WHrl7hg5Tj6fYnVoJbru2+tTBjzB+4CPWRdc=",
   "Source": "WebLojaProdutos",
   "BasePath": "_content/WebLojaProdutos",
   "Mode": "Default",
@@ -1359,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\wwwroot\\js\\jsProdutosVenda.js",
+      "SourceId": "WebLojaProdutos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\wwwroot\\",
+      "BasePath": "_content/WebLojaProdutos",
+      "RelativePath": "js/jsProdutosVenda#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p2qnpdlb7s",
+      "Integrity": "wQAsedn+L8Q5N8VUwqaDVi2rFzwhfG2GUX1YlSPBNs8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jsProdutosVenda.js"
     },
     {
       "Identity": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\wwwroot\\js\\site.js",
@@ -4961,6 +4982,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "js/jsProdutosVenda.js",
+      "AssetFile": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\wwwroot\\js\\jsProdutosVenda.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wQAsedn+L8Q5N8VUwqaDVi2rFzwhfG2GUX1YlSPBNs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:16:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wQAsedn+L8Q5N8VUwqaDVi2rFzwhfG2GUX1YlSPBNs8="
+        }
+      ]
+    },
+    {
+      "Route": "js/jsProdutosVenda.p2qnpdlb7s.js",
+      "AssetFile": "C:\\Users\\bode_\\source\\repos\\LojaProdutos\\WebLojaProdutos\\wwwroot\\js\\jsProdutosVenda.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wQAsedn+L8Q5N8VUwqaDVi2rFzwhfG2GUX1YlSPBNs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:16:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p2qnpdlb7s"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jsProdutosVenda.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wQAsedn+L8Q5N8VUwqaDVi2rFzwhfG2GUX1YlSPBNs8="
         }
       ]
     },
@@ -9743,7 +9846,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 00:17:29 GMT"
+          "Value": "Sun, 23 Mar 2025 15:46:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9780,7 +9883,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 00:17:29 GMT"
+          "Value": "Sun, 23 Mar 2025 15:46:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9825,7 +9928,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 00:17:29 GMT"
+          "Value": "Sun, 23 Mar 2025 15:46:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9870,7 +9973,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 00:17:29 GMT"
+          "Value": "Sun, 23 Mar 2025 15:46:30 GMT"
         },
         {
           "Name": "Cache-Control",

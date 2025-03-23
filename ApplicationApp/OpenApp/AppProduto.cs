@@ -30,7 +30,6 @@ namespace ApplicationApp.OpenApp
             return await _iproduto.ListarProdutosUsuario(userId);
         }
 
-
         public async Task Add(Produto entity)
         {
             await _iproduto.Add(entity);
@@ -55,6 +54,9 @@ namespace ApplicationApp.OpenApp
             await _iproduto.Update(entity);
         }
 
-     
+        public async Task<List<Produto>> ListarProdutosComEstoque()
+        {
+            return await _iServiceProduto.ListarProdutosComEstoque();
+        }
     }
 }

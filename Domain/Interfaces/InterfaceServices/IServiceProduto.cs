@@ -1,4 +1,5 @@
-﻿using Entities.Entities;
+﻿using System.Linq.Expressions;
+using Entities.Entities;
 
 namespace Domain.Interfaces.InterfaceServices
 {
@@ -7,6 +8,7 @@ namespace Domain.Interfaces.InterfaceServices
         Task AddProduto(Produto produto);
         Task UpdateProduto(Produto produto);
 
-    
+        Task<List<Produto>> ListarProdutosComEstoque();
+
     }
 }
